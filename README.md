@@ -1,1 +1,3 @@
 Iniciando treinamento sobre integracao continua
+
+Olá, comentário do Paulo Bueno...
